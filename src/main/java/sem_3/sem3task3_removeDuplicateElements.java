@@ -57,12 +57,3 @@ public class sem3task3_removeDuplicateElements {
 
     }
 }
-
-
-            }
-        }
-        System.out.println(list);
-
-    }
-}
-

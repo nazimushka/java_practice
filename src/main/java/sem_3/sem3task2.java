@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class sem3task2 {
     public static void main(String[] args) {
-        ArrayList<Integer> lst = new ArrayList<>(Arrays.asList(3, 6, 2, 9, 65, 23, 9));
+        ArrayList<Integer> lst = new ArrayList<>(Arrays.asList(30, 21, 25, 98, 34, 57, 9));
 
         double avg = lst.get(0);
         int min = lst.get(0);
